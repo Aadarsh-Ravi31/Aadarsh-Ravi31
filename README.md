@@ -1,15 +1,15 @@
 Hi 👋 I am Aadarsh Ravi!
 ==============================
 
-Software Engineer | Cloud Developer | Full Stack Engineer | Product Technologist
+Welcome to my GitHub! I’m Aadarsh Ravi — a passionate engineer currently pursuing an MS in Information Systems at Northeastern University, Boston.
 
-Welcome to my GitHub space! I’m Aadarsh Ravi — a passionate engineer and product-minded problem solver currently pursuing a Master of Science in Information Systems at Northeastern University, Boston.
+This space reflects my journey across backend systems, scalable cloud infrastructure, full stack applications, and data-driven problem solving. From architecting microservices in .NET and Spring Boot, to deploying on AWS with Docker and Kubernetes, to analyzing data using Python — I love building clean, reliable, and efficient technology.
 
-This space showcases my journey through backend engineering, frontend development, cloud technologies, and quantitative research. Whether I’m building microservices with .NET & Spring Boot, deploying on AWS, or experimenting with machine learning in Python, I thrive on solving meaningful challenges through clean, scalable tech.
+I enjoy collaborating with engineers, designers, and data enthusiasts who share a passion for creating impactful systems.
 
-I’m always open to collaborating with builders, analysts, and developers who love transforming ideas into impactful systems.
+🔍 I'm currently exploring opportunities where I can contribute to high-impact engineering teams, build scalable architectures, and grow at the intersection of software and strategy. Let’s connect and build something meaningful!
 
-**I’m currently seeking exciting opportunities where I can contribute to building robust backend systems, design cloud-first architectures, and work at the intersection of tech and product. Let’s connect and create something amazing together!**
+
 
 - 🌍 I'm based in Boston, MA  
 - ✉️ You can contact me at [ravi.aad@northeastern.edu](mailto:ravi.aad@northeastern.edu)
@@ -18,9 +18,10 @@ I’m always open to collaborating with builders, analysts, and developers who l
 
 ## 🎯 My Hobbies
 
-🎵 **Music powers my focus**, often looping lo-fi beats while I debug.  
-📚 **Reading fuels my curiosity**, especially around systems design and behavioral economics.  
-🧳 **Travel sparks inspiration**, helping me see patterns and problems from fresh perspectives.  
+🎵 **Music fuels my flow**, whether it's lo-fi while coding or upbeat tracks during breaks.  
+🎮 **Gaming keeps me sharp**, challenging my reflexes, strategy, and problem-solving under pressure.  
+⚽ **Sports energize me**, from playing football to following cricket — they keep me competitive and focused.  
+
 
 ---
 
@@ -68,7 +69,3 @@ I’m always open to collaborating with builders, analysts, and developers who l
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)
